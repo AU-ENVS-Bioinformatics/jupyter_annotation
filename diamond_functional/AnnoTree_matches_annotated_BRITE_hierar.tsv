@@ -1,7 +1,0 @@
-ContigID	SampleA	SampleB	SampleC	SampleD	SampleE	NCBI_TaxID	KEGG	INTERPRO2GO	Level1	Level2	Level3
-MKWE01000003_1_73__GB_GCA_001899585_1	0	2	0	0	2	1895826	K04088		09181 Protein families: metabolism	01002 Peptidases and inhibitors [BR:ko01002]	modulator of FtsH protease HflK
-NZZG01000135_1_4__GB_GCA_002698575_1	3	6	0	0	0	51662	K13955				
-NZ_CP027579_1_4510__RS_GCF_003018335_1	0	0	0	0	0	562	K01951	IPR022955	09181 Protein families: metabolism	01002 Peptidases and inhibitors [BR:ko01002]	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
-NZ_LT934425_1_2685__RS_GCF_900232105_1	0	0	2	1	0	174633	K20934				
-NZ_SDKM01000083_1_4__RS_GCF_004519545_1	0	0	0	9	0	2497878					
-VBIU01000006_1_34__GB_GCA_005880945_1	1	0	0	0	5	2026724	K02033		09183 Protein families: signaling and cellular processes	02000 Transporters [BR:ko02000]	peptide/nickel transport system permease protein
