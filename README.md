@@ -1,4 +1,5 @@
 # Annotation of contigs from TotalRNA
+[![DOI](https://zenodo.org/badge/700381264.svg)](https://zenodo.org/doi/10.5281/zenodo.10254965)
 
 This repository is a collection of notebooks to annotate contigs from *de novo* assembly of mRNA reads from Total-RNA sequencing. 
 
